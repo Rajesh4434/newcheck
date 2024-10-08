@@ -92,7 +92,7 @@ export default function Changelogs() {
                             <ModalBody>
                                 <div className="flex flex-col">
                                     <div className="flex justify-between items-center gap-2">
-                                        <p className="text-lg sm:text-xl">Changelogs</p>
+                                        <p className="text-lg sm:text-xl">Iggy</p>
                                         <div className="flex gap-3 items-center">
                                             {/* Github Icon */}
                                             <Link

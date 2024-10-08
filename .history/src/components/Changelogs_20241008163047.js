@@ -58,7 +58,7 @@ const releaseLogs = [
     {
         version: "V3.2.2",
         changes: [
-            ,
+            
         ],
     },
 ];
@@ -96,7 +96,7 @@ export default function Changelogs() {
                                         <div className="flex gap-3 items-center">
                                             {/* Github Icon */}
                                             <Link
-                                                href="#"
+                                                href="https://github.com/Noname968/airin"
                                                 target="_blank"
                                                 className="w-5 h-5 hover:opacity-75"
                                             >

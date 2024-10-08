@@ -58,7 +58,11 @@ const releaseLogs = [
     {
         version: "V3.2.2",
         changes: [
-            ,
+            "Fixed new anime not showing.",
+            "Fixed anime not found issue.",
+            "Fixed recent episodes",
+            "Fixed Player Not Working Properly",
+            "Fixed Some Bugs",
         ],
     },
 ];

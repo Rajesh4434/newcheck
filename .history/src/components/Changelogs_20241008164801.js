@@ -58,7 +58,8 @@ const releaseLogs = [
     {
         version: "V3.2.2",
         changes: [
-            ,
+            "t Working Properly",
+            "Fixed Some Bugs",
         ],
     },
 ];
